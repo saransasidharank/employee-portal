@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "prithi",
+      "profilePic": ""
+    },
+    {
+      "id": "f732",
+      "empId": "emp1",
+      "name": "austeen",
+      "email": "austeen@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "5487",
+      "email": "rithul@gmail.com",
+      "empId": "emp2",
+      "name": "rithul",
+      "status": "1"
+    },
+    {
+      "id": "3694",
+      "email": "midhun@gmail.com",
+      "empId": "emp3",
+      "name": "midhun",
+      "status": "0"
+    },
+    {
+      "id": "1314",
+      "email": "mani@gmail.com",
+      "empId": "emp4",
+      "name": "mani",
+      "status": "1"
+    },
+    {
+      "id": "62b3",
+      "email": "amal@gmail.com",
+      "empId": "emp5",
+      "name": "amal",
+      "status": "1"
+    },
+    {
+      "id": "a769",
+      "email": "amarnath@gmail.com",
+      "empId": "emp6",
+      "name": "amarnath",
+      "status": "1"
+    },
+    {
+      "id": "6377",
+      "email": "akash@gmail.com",
+      "empId": "emp7",
+      "name": "akash",
+      "status": "1"
+    },
+    {
+      "id": "39bf",
+      "email": "sachin@gmail.com",
+      "empId": "emp8",
+      "name": "sachin",
+      "status": "1"
+    },
+    {
+      "id": "6858",
+      "email": "subin@gmail.com",
+      "empId": "emp9",
+      "name": "subin",
+      "status": "1"
+    }
+  ]
+}
